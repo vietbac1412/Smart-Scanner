@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">الماسح الذكي</string>
+    <string name="app_name_default">الماسح الذكي</string>
+
+    <!--Action items-->
+    <string name="action_hide">إخفاء</string>
+    <string name="action_show">إظهار</string>
+    <string name="action_show_hide">إظهار/إخفاء</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <!--Modes-->
+    <string name="mode_barcode">الباركود</string>
+    <string name="mode_idpass_lite">معرف باس لايت</string>
+    <string name="mode_mrz">كود MRZ</string>
+    <string name="mode_nfc">الجواز الالكتروني/بطاقة الهوية (NFC)</string>
+    <string name="mode_pdf417">PDF417</string>
+    <string name="mode_qr">كيو ار كود</string>
+    <string name="mode_qr_gzip">رمز الاستجابة السريعة (GZIP)</string>
+
+    <!--Labels-->
+    <string name="label_authenticate">المصادقة</string>
+    <string name="label_birthday">تاريخ الميلاد: %1$s</string>
+    <string name="label_choose_codetype">حدد نوع الرمز لبدء المسح.</string>
+    <string name="label_enter_pin">أدخل الرقم السري</string>
+    <string name="label_hex">JOHN DOE The Quick Brown Fox Jump Over the Back of Lazy dog. The Quick Brown Fox Jump Over the Back of Lazy Dog.</string>
+    <string name="label_name">الاسم: %1$s</string>
+    <string name="label_nationality">الهويه: %1$s</string>
+    <string name="label_newlogic">طور بواسطة Newlogic</string>
+    <string name="label_result">نتائج المسح</string>
+    <string name="label_result_image">صوره</string>
+    <string name="label_result_none">لم يتم العثور على نتيجة</string>
+    <string name="label_result_raw">نتيجة أولية</string>
+    <string name="label_surname">اسم العائلة: %1$s</string>
+    <string name="label_regular">منتظم</string>
+    <string name="label_cancel">الفاء</string>
+    <string name="label_gzip_json">GZIP/JSON</string>
+    <string name="please">يرجى مسح MRZ للتحقق من الهوية</string>
+    <string name="english">English</string>
+    <string name="developed_by_newlogic">طور بواسطة Newlogic</string>
+    <string name="languages">اللغات</string>
+    <string name="language_and_region">اللغه والمنطقة</string>
+    <string name="label_scan_nfc_capture">التقاط NFC</string>
+    <string name="label_scan_nfc_via_mrz">يرجى مسح MRZ للتحقق من الهوية</string>
+    <string name="label_version">إصدار: %1$s</string>
+    <string name="label_warning_invalid_composite_digit">تحذير: يحتوي MRZ هذا على رقم تحقق مركب غير صالح.</string>
+    <string name="label_orientation">توجيه</string>
+    <string name="label_portrait">لوحة</string>
+    <string name="label_landscape">منظر جمالي</string>
+    <string name="label_config_profile">ملف تعريف التكوين</string>
+    <string name="label_config_load">لتحميل تكوين ، امسح رمز QR متوافقًا</string>
+    <string name="label_config_scan">مسح تكوين رمز الاستجابة السريعة </string>
+    <string name="label_config_name">اسم الشخصية</string>
+    <string name="label_config_pub_key">المفتاح العمومي</string>
+    <string name="label_config_reset">إعادة تعيين ملف تعريف التكوين</string>
+    <string name="label_config_reset_desc">يؤدي هذا الإجراء إلى إعادة تعيين التطبيق إلى التكوين الافتراضي.</string>
+    <string name="label_signature_verified">تم التحقق من التوقيع</string>
+    <string name="header">عنوان</string>
+    <string name="payload">الحمولة</string>
+    <string name="raw_result">البيانات الخام</string>
+    <string name="view_raw_result">عرض البيانات الخام</string>
+    <string name="config_loaded">تم تحميل التكوين بنجاح</string>
+
+</resources>

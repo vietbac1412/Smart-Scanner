@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">SmartScanner</string>
+    <string name="app_name_default">SmartScanner</string>
+
+    <!--Action items-->
+    <string name="action_hide">HIDE</string>
+    <string name="action_show">SHOW</string>
+    <string name="action_show_hide">SHOW/HIDE</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Modes-->
+    <string name="mode_barcode">Barcode</string>
+    <string name="mode_idpass_lite">ID PASS Lite</string>
+    <string name="mode_mrz">MRZ Code</string>
+    <string name="mode_nfc">E-Passport/ID Card (NFC)</string>
+    <string name="mode_pdf417">PDF417</string>
+    <string name="mode_qr">QR Code</string>
+    <string name="mode_qr_gzip">QR Code (GZIP)</string>
+
+    <!--Labels-->
+    <string name="label_authenticate">Authenticate</string>
+    <string name="label_birthday">Birthday: %1$s</string>
+    <string name="label_choose_codetype">Select code type to start scanning.</string>
+    <string name="label_enter_pin">Enter pin code</string>
+    <string name="label_hex">JOHN DOE The Quick Brown Fox Jump Over the Back of Lazy dog. The Quick Brown Fox Jump Over the Back of Lazy Dog.</string>
+    <string name="label_name">Name: %1$s</string>
+    <string name="label_nationality">Nationality: %1$s</string>
+    <string name="label_newlogic">Developed by Newlogic</string>
+    <string name="label_result">Scan Results</string>
+    <string name="label_result_image">Image</string>
+    <string name="label_result_none">NO RESULT FOUND</string>
+    <string name="label_result_raw">Raw Result</string>
+    <string name="label_surname">Surname: %1$s</string>
+    <string name="please">Please scan MRZ to verify ID</string>
+
+    <string name="label_gzip_json">GZIP/JSON</string>
+    <string name="label_regular">REGULAR</string>
+    <string name="label_cancel">CANCEL</string>
+    <string name="english">English</string>
+    <string name="developed_by_newlogic">Developed by newlogic</string>
+    <string name="languages">LANGUAGES</string>
+    <string name="language_and_region">Language and region</string>
+    <string name="label_scan_nfc_capture">Capture NFC</string>
+    <string name="label_scan_nfc_via_mrz">Please scan MRZ to verify ID</string>
+    <string name="label_version">Version: %1$s</string>
+    <string name="label_warning_invalid_composite_digit">Warning: This MRZ contains an invalid composite check digit.</string>
+    <string name="label_orientation">ORIENTATION</string>
+    <string name="label_portrait">Portrait</string>
+    <string name="label_landscape">Landscape</string>
+    <string name="label_config_profile">CONFIGURATION PROFILE</string>
+    <string name="label_config_load">To load a configuration, scan a compatible QR code</string>
+    <string name="label_config_scan">Scan Configuration QR Code </string>
+    <string name="label_config_name">Profile Name</string>
+    <string name="label_config_pub_key">Public Key</string>
+    <string name="label_config_reset">Reset Configuration Profile</string>
+    <string name="label_config_reset_desc">This action resets the app back to default configuration.</string>
+    <string name="label_signature_verified">Signature verified</string>
+    <string name="header">Header</string>
+    <string name="payload">Payload</string>
+    <string name="raw_result">Raw result</string>
+    <string name="view_raw_result">View Raw Result</string>
+    <string name="config_loaded">Configuration loaded successfully</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
